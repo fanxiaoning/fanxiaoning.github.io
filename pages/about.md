@@ -2,7 +2,7 @@
 layout: page
 title: About
 description: 知识改变命运
-keywords:Zhuang Ma, 马壮
+keywords: 小范, Mr.xiaofan
 comments: true
 menu: 关于
 permalink: /about/

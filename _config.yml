@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://fanxiaoning.github.io/
+url: https://github.com/fanxiaoning
 date_format: "ordinal"
 title: Mr.xiaofan
 subtitle: "公众号：闷骚的程序员"
@@ -10,8 +10,8 @@ description: "小范的个人博客，公众号：闷骚的程序员"
 keywords: 小范, Mr.xiaofan
 timezone: Asia/xian
 encoding: "utf-8"
-side_bar_repo_limit: 5
-repository: fanxiaoning/fanxiaoning.github.io
+side_bar_repo_limit: 4
+repository: https://github.com/fanxiaoning
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
     jsdelivr:

@@ -2,11 +2,11 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-#url: https://mazhuang.org
+url: https://fanxiaoning.github.io/
 date_format: "ordinal"
 title: Mr.xiaofan
-#subtitle: "公众号：闷骚的程序员"
-#description: "马壮的个人博客，公众号：闷骚的程序员"
+subtitle: "公众号：闷骚的程序员"
+description: "小范的个人博客，公众号：闷骚的程序员"
 keywords: 小范, Mr.xiaofan
 timezone: Asia/xian
 encoding: "utf-8"
